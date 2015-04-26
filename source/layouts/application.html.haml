@@ -4,9 +4,10 @@
     %meta{charset: "utf-8"}
     %meta{content: "IE=edge,chrome=1", http: {equiv: "X-UA-Compatible"}}
     %meta{name: "viewport", content: "width=device-width, initial-scale=1"}
-    %title= current_page.data.title || "The Middleman"
+    %title= current_page.data.title || "Swapcase"
     = stylesheet_link_tag "application"
+    = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
 
   %body{class: page_classes}
-    = yield
-    = javascript_include_tag "https://code.jquery.com/jquery-2.1.1.min.js", "application"
+    %main
+      = yield
