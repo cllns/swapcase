@@ -5,6 +5,8 @@ I write a lot of notes on my phone. Writing notes on a phone looks just like tex
 
 I currently have a crappy (not-smart) phone, which has an arbitrary maximum for each note of 130 characters. 140 would make more sense, but not really, since there's no way to get a note into a text. Even worse, it can't hold more than 30 notes at a time. For those keeping track at home, that's 4KB (in ASCII).
 
+READMORE
+
 When the notes get full, I use text drafts, which are much less user friendly and also prone to automatic deletion. They have a benefit over notes of having a 7 * 140 characters limit (more than I ever need). But I can only story a max of 20 of those (not to mention 'legitimate' drafts, i.e. interrupted texts).
 
 So, when my phone's full, I dump it all to the notebook and start all over again. This is obviously suboptimal, but the price to pay for not getting a smart phone.

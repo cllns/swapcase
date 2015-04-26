@@ -4,6 +4,8 @@ title: Larry Clark Goes DIY
 
 On November 21 2012 __Larry Clark's__ (_Kids_, _Ken Park_) new film _Marfa Girl_, started streaming on [larryclark.com](http://larryclark.com). For $5.99, viewers get a 24-hour window to stream it online. _Marfa Girl_ has never been released to theaters and never will be. It has, however, had several screenings, one of which earned it this year's _Marco Aurelio Award_ for __Best Film at the Rome Film Festival__. There are no plans to ever release it to DVD.
 
+READMORE
+
 _NOWNESS.com_ did a great little video about this, where they interviewed the filmmaker about the movie and its unique distribution. Larry talks about how he's "not going to do any more Hollywood films because they're all crooks." He also attacks the "Motion Picture blah blah blah" (MPAA) as being a censorship board run by the studios. Shifts in society's relationship with media haven't gone unnoticed either; he speaks of how everyone's "going to see it on their computer anyway" so he's "cut[ting] out all the unnecessary middlemen" and "go[ing] right to the people." The [whole video](http://www.nowness.com/day/2012/11/21/2603/larry-clark-marfa-girl) is great, which also talks about the story behind the film.
 
 In a post on his site, Larry states unapologetically that "very soon almost all the small theaters that show Indie and Art films will be gone..." What will replace these venues? Will they simply disappear as people move into their homes to watch these types of movies, or will an alternative emerge? I would like to see it mimic (and possibly attaches itself to) the DIY punk scene, where bands play in basements, community centers, and rented halls. Licensing issues for these small public viewings could be troublesome, but can be negotiated.

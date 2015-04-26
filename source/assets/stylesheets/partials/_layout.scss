@@ -1,0 +1,16 @@
+body {
+  @include outer-container;
+}
+
+header {
+  font-size: 4rem;
+  text-align: center;
+
+  a {
+    color: inherit;
+    &:hover {
+      color: inherit;
+      text-decoration: underline;
+    }
+  }
+}
